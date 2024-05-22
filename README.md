@@ -1,5 +1,5 @@
 ## ⚡ Welcome to jgeb28 profile! ⚡
-I`m currently student at Warsaw University of Technology
+I`m currently computer science student at Warsaw University of Technology
 
 ---
 
