@@ -26,5 +26,5 @@ I`m currently computer science student at Warsaw University of Technology
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jgeb28&theme=light&show_icons=true&rank_icon=github&show=prs_merged_percentage" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgeb28&layout=donut&theme=light&langs_count=5"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgeb28&layout=donut&theme=light&langs_count=4&hide=php"/>
 </a>
